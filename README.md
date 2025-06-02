@@ -78,4 +78,5 @@ Gained hands-on experience in capturing and analyzing network traffic.
 Learned to identify and filter common protocols in packet captures.
 
 Developed basic protocol awareness using Wireshark
-![Screenshot 2025-06-02 141113](https://github.com/user-attachments/assets/c2f19e35-e40f-4f2d-ad64-49d70bd8e362)
+
+
